@@ -2,7 +2,6 @@
 
 # 📦 Ecommerce Sales Analysis Dashboard
 
-![Dashboard Screenshot](./your-dashboard-image.png) <!-- Replace with actual image path -->
 
 ## 🎯 Objective
 
